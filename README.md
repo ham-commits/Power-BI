@@ -9,5 +9,9 @@ https://github.com/user-attachments/assets/aeb8e1aa-bc38-4533-9a73-41f059441c98
 
 
 Dynamically update the bar chart by selecting a measure in the horizontal slicers above the visuals.
-https://github.com/user-attachments/assets/d00012ad-85eb-4ab7-89d2-6e21330d76c3
+
+
+
+
+https://github.com/user-attachments/assets/f0e639c0-3a74-4bc5-b972-28342c54b9aa
 
