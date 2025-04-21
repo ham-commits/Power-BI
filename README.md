@@ -18,6 +18,11 @@ https://github.com/user-attachments/assets/f0e639c0-3a74-4bc5-b972-28342c54b9aa
 <img width="651" alt="image" src="https://github.com/user-attachments/assets/9f35ba18-d375-407c-8f73-7fbf42deb914">
 <img width="645" alt="image" src="https://github.com/user-attachments/assets/ae58583f-824c-4b54-8baa-b790459d14b3">
 
+Refer video:
+
+https://github.com/user-attachments/assets/0efd8b71-bce7-4862-8c91-d39766cff07d
+
+
 Features: Quick Reference Guides
 
 Info pop - ups view: While using Power BI desktop use Ctrl + Click to use buttons. Ctrl+Click Info icon on top right of the page to see info pop-ups. Ctrl+Click anywhere on the screen to go back to default view.
