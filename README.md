@@ -34,7 +34,9 @@ Bar chart with Field Parameters and Drillthrough : Drillthrough allows users to 
 
 Refer video: 
 
-https://github.com/user-attachments/assets/b1ab4776-65bc-487d-8651-3a80ac75c811
+https://github.com/user-attachments/assets/73b71634-1036-411c-b72a-107aeb910e7f
+
+
 
 
 
